@@ -1,0 +1,13 @@
+.image-thumb {
+    display: inline-block;
+    width: 200px;
+}
+
+.image-thumb img {
+    width: 100%;
+}
+
+.photo-title {
+    text-align: center;
+    font-size: 10px;
+}
