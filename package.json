@@ -15,6 +15,8 @@
     "gulp-browser": "^2.1.4",
     "gulp-size": "^2.1.0",
     "reactify": "^1.1.1"
+  },
+  "dependencies": {
+    "redux": "^3.7.1"
   }
 }
-

@@ -1,13 +1,24 @@
-.image-thumb {
+.image-container {
     display: inline-block;
     width: 200px;
+    margin: 20px;
 }
 
-.image-thumb img {
+.image-container img {
     width: 100%;
 }
 
 .photo-title {
     text-align: center;
     font-size: 10px;
+}
+
+.cboxes {
+    text-align: justify;
+}
+
+.cboxes label {
+    width: 50%;
+    float: left;
+    display: block;
 }
