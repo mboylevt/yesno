@@ -8,9 +8,9 @@
     width: 100%;
 }
 
-.photo-title {
+.titletext {
     text-align: center;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .cboxes {
@@ -21,4 +21,11 @@
     width: 50%;
     float: left;
     display: block;
+}
+
+.stateReport {
+  width: 400px;
+  text-align: justify;
+  text-justify: inter-word;
+  display: block;
 }
